@@ -10,6 +10,6 @@ public class Application {
 class Calculator{
 	public void add(int x, int y){
 		int z = x + y;
-		System.out.printf("Сумма %d и %d равна %d", x, y, z);
+		System.out.printf("%d + %d = %d", x, y, z);
 	}
 }
